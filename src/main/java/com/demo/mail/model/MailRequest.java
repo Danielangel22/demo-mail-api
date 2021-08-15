@@ -1,6 +1,6 @@
 package com.demo.mail.model;
 
-public class SendMail {
+public class MailRequest {
 
 	private String subject;
 	private String to;
